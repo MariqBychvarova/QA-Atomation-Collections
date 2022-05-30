@@ -1,2 +1,2 @@
-# QA-Atomation-Collections
+# QA-Automation-Collections
 Unit-Tests
